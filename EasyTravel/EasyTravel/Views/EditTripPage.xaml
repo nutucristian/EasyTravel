@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EasyTravel.Views.EditTripPage">
+
+    <StackLayout Padding="10">
+        <Entry Placeholder="Destination Name" Text="{Binding Destination}" />
+        <Entry Placeholder="Country" Text="{Binding Country}" />
+        <Entry Placeholder="Duration (days)" Text="{Binding Duration}" Keyboard="Numeric" />
+        <Entry Placeholder="Rating" Text="{Binding Rating}" Keyboard="Numeric" />
+        <Editor Placeholder="Details" Text="{Binding Details}" HeightRequest="100"/>
+        <Button Text="Save Trip" Clicked="OnSaveTripClicked" />
+    </StackLayout>
+</ContentPage>

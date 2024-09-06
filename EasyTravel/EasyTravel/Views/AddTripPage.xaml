@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EasyTravel.Views.AddTripPage">
+
+    <StackLayout Padding="10">
+        <Entry Placeholder="Destination Name" x:Name="DestinationEntry"/>
+        <Entry Placeholder="Country" x:Name="CountryEntry"/>
+        <Entry Placeholder="Duration (days)" x:Name="DurationEntry" Keyboard="Numeric"/>
+        <Entry Placeholder="Rating" x:Name="RatingEntry" Keyboard="Numeric"/>
+        <Button Text="Save Trip" Clicked="OnSaveTripClicked"/>
+    </StackLayout>
+</ContentPage>

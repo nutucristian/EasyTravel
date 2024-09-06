@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EasyTravel
+build_property.ProjectDir = C:\Users\Cristian Nutu\Desktop\ProiectePDM\.net\EasyTravel\EasyTravel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Views/AboutUsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Views.AboutUsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutUsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutUsPage.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Views/AddTripPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Views.AddTripPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddTripPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddTripPage.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Views/EditTripPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Views.EditTripPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditTripPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditTripPage.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Views/TripDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Views.TripDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TripDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TripDetailsPage.xaml
+
+[C:/Users/Cristian Nutu/Desktop/ProiectePDM/.net/EasyTravel/EasyTravel/Views/TripsListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EasyTravel.Views.TripsListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TripsListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TripsListPage.xaml
